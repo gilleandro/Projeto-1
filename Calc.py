@@ -16,6 +16,8 @@ if opcao == 1:
     b=int(input("Digite um Valor: "))
     soma=a+b
     print('\nResultado', soma)
+else: 
+    print("\nOpção inválida. Try again my friend!")
     
 if opcao == 2:
     print('\n\n\n\n\n\n\n                                    Calculadora de Subtração')
